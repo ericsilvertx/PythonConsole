@@ -3,7 +3,7 @@ import time
 
 
 def job():
-    print('I am working')
+    print('I am working too')
 
 schedule.every(3).seconds.do(job)
 
