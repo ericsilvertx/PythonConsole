@@ -1,0 +1,14 @@
+2021-09-26 13:09:57,914 This message should go to the log file
+2021-09-26 13:09:57,914 So should this
+2021-09-26 13:09:57,914 And this, too
+2021-09-26 13:09:57,914 And non-ASCII stuff, too, like Øresund and Malmö
+2021-09-26 13:10:00,944 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:10:00,944 I am working
+2021-09-26 13:10:03,974 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:10:03,974 I am working
+2021-09-26 13:10:07,014 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:10:07,014 I am working
+2021-09-26 13:10:10,044 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:10:10,044 I am working
+2021-09-26 13:10:13,065 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:10:13,065 I am working

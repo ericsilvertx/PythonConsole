@@ -1,0 +1,46 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+ERROR:root:And non-ASCII stuff, too, like Øresund and Malmö
+2021-09-26 12:28:21,260 This message should go to the log file
+2021-09-26 12:28:21,260 So should this
+2021-09-26 12:28:21,263 And this, too
+2021-09-26 12:28:21,263 And non-ASCII stuff, too, like Øresund and Malmö
+2021-09-26 12:28:24,296 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:28:24,297 I am working
+2021-09-26 12:28:27,311 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:28:27,311 I am working
+2021-09-26 12:28:30,350 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:28:30,350 I am working
+2021-09-26 12:28:33,393 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:28:33,393 I am working
+2021-09-26 12:28:36,422 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:28:36,422 I am working
+2021-09-26 12:47:47,248 This message should go to the log file
+2021-09-26 12:47:47,249 So should this
+2021-09-26 12:47:47,251 And this, too
+2021-09-26 12:47:47,252 And non-ASCII stuff, too, like Øresund and Malmö
+2021-09-26 12:47:50,288 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:47:50,293 I am working
+2021-09-26 12:47:53,323 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:47:53,323 I am working
+2021-09-26 12:47:56,344 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:47:56,344 I am working
+2021-09-26 12:47:59,373 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:47:59,373 I am working
+2021-09-26 12:48:02,389 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:48:02,389 I am working
+2021-09-26 12:48:05,418 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:48:05,418 I am working
+2021-09-26 12:48:08,451 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 12:48:08,452 I am working
+2021-09-26 13:04:09,345 This message should go to the log file
+2021-09-26 13:04:09,345 So should this
+2021-09-26 13:04:09,345 And this, too
+2021-09-26 13:04:09,345 And non-ASCII stuff, too, like Øresund and Malmö
+2021-09-26 13:04:12,385 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:04:12,386 I am working
+2021-09-26 13:04:15,415 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:04:15,416 I am working
+2021-09-26 13:04:18,435 Running job Job(interval=3, unit=seconds, do=job, args=(), kwargs={})
+2021-09-26 13:04:18,435 I am working
